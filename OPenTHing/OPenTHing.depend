@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1750183890 source:c:\users\user\desktop\mine\openthing\main.c
+	<windows.h>
+	<gl/gl.h>
+
